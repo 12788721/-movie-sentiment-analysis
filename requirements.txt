@@ -1,5 +1,8 @@
-gradio
+pandas
+numpy
 scikit-learn
-joblib
-beautifulsoup4
 nltk
+beautifulsoup4
+gradio
+joblib
+lxml
